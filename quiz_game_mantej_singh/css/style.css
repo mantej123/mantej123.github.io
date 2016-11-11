@@ -1,0 +1,28 @@
+  @import url('https://fonts.googleapis.com/css?family=Ranga');
+  .answers {
+    width: 200px;
+  }
+  
+  .moreQuestions {
+    display: none;
+  }
+  
+  body {
+    background-image: url('http://i.imgur.com/avu3JfU.gif');
+  }
+  
+  img {
+    align: center;
+  }
+  
+  p {
+    font-family: Ranga;
+    color: blue;
+    text-allign: center;
+    font-size: 40px;
+    background-color: black;
+  }
+  
+  img {
+    min-height: 200px
+  }
